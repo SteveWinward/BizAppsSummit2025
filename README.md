@@ -18,4 +18,4 @@ This is a companion page that includes links to all the references in my Copilot
 ## Demo Links
 * Copilot Studio Agents
   * [USA.gov Q&A Agent Demo](https://aka.ms/usagov)
-  * [Steve's Presntation Feedback Agent Demo](https://aka.ms/SteveCopilot)
+  * [Steve's Presentation Feedback Agent Demo](https://aka.ms/SteveCopilot)
