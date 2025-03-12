@@ -17,6 +17,4 @@ This is a companion page that includes links to all the references in my Copilot
 * [What is ChatGPT Doing... and Why Does It Work?](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/)
 
 ## Demo Links
-* Copilot Studio Agents
-  * [USA.gov Q&A Agent Demo](https://aka.ms/usagov)
-  * [Steve's Presentation Feedback Agent Demo](https://aka.ms/SteveCopilot)
+* Demos are no longer published.
